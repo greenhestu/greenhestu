@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreenhestu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Generic badge](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Generic badge](https://img.shields.io/github/languages/count/greenhestu/survive )
-![Generic badge](https://img.shields.io/github/issues/greenhestu/survive)
+![Generic badge](https://img.shields.io/badge/-hestu#3798-7289da?style=for-the-badge&logo=discord&logoColor=white)
+
 
 [![Hestu's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenhestu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **greenhestu/greenhestu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Generic badge](https://img.shields.io/github/languages/count/greenhestu/survive )
+![Generic badge](https://img.shields.io/github/issues/greenhestu/survive)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
